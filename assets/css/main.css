@@ -2634,7 +2634,7 @@ input, select, textarea {
 	}
 	.center-fit {
 		max-width: 50%;
-		max-height: 100vh;
+		max-height: 150vh;
 		margin: auto;
 	}
 
