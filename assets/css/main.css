@@ -2631,6 +2631,7 @@ input, select, textarea {
 		margin-top: 10%;
 		display: grid;
 		height: 100%;
+		grid-template-areas: "text" "image";
 	}
 	.center-fit {
 		max-width: 50%;
